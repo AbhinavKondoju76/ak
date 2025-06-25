@@ -1,0 +1,17 @@
+let a= 10;
+let b =5;
+console.log("Arithmetic Operators:");
+console.log("a=",a,",b=",b);
+let sum=a+b;
+let difference = a-b;
+let product = a*b;
+let quotient = a/b;
+let remainder = a%b;
+let exponent = a**b;
+console.log("Arithmeticc Operators:");
+console.log("sum:",sum);
+console.log("Difference:",difference);
+console.log("product:",product);
+console.log("quotient:",quotient);
+console.log("remainder:",remainder);
+console.log("exponent:",exponent);
